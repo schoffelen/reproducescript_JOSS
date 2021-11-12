@@ -1,6 +1,6 @@
 This repo is for working on a submission of the reproducescript project for JOSS. 
 
-The submission requirements can be found here: https://joss.readthedocs.io/en/latest/submitting.html and a list of review criteria can be found here https://joss.readthedocs.io/en/latest/review_criteria.html
+The submission requirements can be found here: https://joss.readthedocs.io/en/latest/submitting.html 
 To recap, this is required for submission (paper length 250-1000 words):
 - The software must be open source as per the OSI definition.
 - The software must have an obvious research application.
@@ -13,3 +13,5 @@ In addition, the software associated with your submission must:
 - Be stored in a repository that is browsable online without registration.
 - Have an issue tracker that is readable without registration.
 - Permit individuals to create issues/file tickets against your repository.
+
+A list of review criteria can be found here https://joss.readthedocs.io/en/latest/review_criteria.html
